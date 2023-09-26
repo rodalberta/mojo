@@ -25,3 +25,9 @@ Otherwise, you can:
 - Read the [inspiration behind Mojo](https://docs.modular.com/mojo/why-mojo.html).
 - Check out the [Mojo programming manual](https://docs.modular.com/mojo/programming-manual.html).
 - Read our other docs on [docs.modular.com/mojo](https://docs.modular.com/mojo).
+
+``` bash
+curl https://get.modular.com |  MODULAR_AUTH=mut_44109d285e1444e3ae5e16621a503f0a sh -
+modular install mojo
+
+```
